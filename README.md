@@ -1,0 +1,1 @@
+# An app which scrapes data from a website, stores the data in a database and sends an email to the client if a new event is published.
